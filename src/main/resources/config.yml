@@ -1,0 +1,6 @@
+trustedAddresses:
+  - mydomain.com
+opBypass: true
+allowLocal: true
+allowLocalhost: true
+blockedMessage: "Invalid address: %address%"
